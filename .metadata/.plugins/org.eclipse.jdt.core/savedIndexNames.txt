@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/home/vertigo-tecmobile/Programação/eclipse/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+895724301.index
+646308851.index
+3417216881.index
+4220221812.index
+1865797976.index
+2520984753.index
